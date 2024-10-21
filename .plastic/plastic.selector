@@ -1,0 +1,4 @@
+repository "Shop simulator@FoukkasGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"

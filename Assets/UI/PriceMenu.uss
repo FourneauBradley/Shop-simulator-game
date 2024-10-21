@@ -1,0 +1,102 @@
+.panel {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+}
+
+.menu {
+    background-color: rgb(255, 250, 205);
+    border-radius: 10px;
+    height: auto;
+    width: 45%;
+    max-height: 60%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.title {
+    color: rgb(135, 206, 250);
+    font-size: 60px;
+    -unity-text-align: upper-center;
+    margin: 0;
+    text-shadow: 2px 2px 5px rgb(30, 144, 255);
+    -unity-font-style: bold-and-italic;
+    margin-bottom: 2%;
+}
+
+.RowContainer {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.label {
+    font-size: 50px;
+    color: rgb(156, 150, 92);
+    flex: 1;
+}
+
+.value {
+    font-size: 50px;
+    color: rgb(30, 144, 255);
+    -unity-font-style: italic;
+    margin-left: auto;
+}
+
+.CurrentPriceInput {
+    font-size: 50px;
+    color: rgb(255, 69, 0);
+    width: 35%;
+    margin-left: auto;
+}
+
+.CurrentPriceInput .unity-text-element {
+    font-size: 50px;
+    color: rgb(30, 144, 255);
+    -unity-text-align: upper-right;
+    -unity-background-image-tint-color: rgb(255, 250, 205);
+}
+
+.horizontalBar {
+    height: 4px;
+    background-color: rgb(135, 206, 250);
+    width: 90%;
+    margin-top: 3%;
+    margin-bottom: 10px;
+    max-height: 4px;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.Button {
+    width: 40%;
+    max-height: 13%;
+    height: 100%;
+    font-size: 45px;
+    background-color: rgb(179, 220, 245);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    transition: background-color 0.3s, transform 0.2s;
+    text-shadow: 6.5px 4px 10px rgba(0, 0, 0, 0);
+}
+
+.Button:hover {
+    background-color: rgb(102, 148, 176);
+    scale: 1.1 1.1;
+    transition-property: scale;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-in-out;
+}

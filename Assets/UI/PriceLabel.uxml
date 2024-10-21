@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/ProductTemplate.uss?fileID=7433441132597879392&amp;guid=2c376dff98511e64c869bf5b6a91e7c2&amp;type=3#ProductTemplate" />
+    <ui:VisualElement name="Root" class="Root" style="flex-grow: 1; font-size: 10px; align-self: auto; align-items: center; align-content: center;">
+        <ui:VisualElement name="LeftPanel" class="LeftPanelTemplate" style="flex-grow: 1;">
+            <ui:VisualElement name="Picture" class="Picture" style="flex-grow: 1; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: rgb(159, 159, 159);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="RightPanel" class="RightPanelTemplate" style="flex-grow: 1; justify-content: center; align-self: center; align-content: stretch; align-items: center;">
+            <ui:Label text="Name" name="NameLbl" style="font-size: 240px;" />
+            <ui:Label text="1.99$" name="PriceLbl" style="font-size: 220px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

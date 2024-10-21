@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Shop simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|d:\\unityproject\\shop simulator\\assets\\script\\shelfplacable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shelfplacable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|D:\\UnityProject\\Shop simulator\\assets\\script\\placableobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\placableobjectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|D:\\UnityProject\\Shop simulator\\assets\\script\\customerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\customerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|D:\\UnityProject\\Shop simulator\\assets\\script\\cashregistermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cashregistermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|D:\\UnityProject\\Shop simulator\\assets\\script\\productutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\productutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|D:\\UnityProject\\Shop simulator\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|D:\\UnityProject\\Shop simulator\\assets\\script\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|D:\\UnityProject\\Shop simulator\\assets\\script\\cashregisterentrypos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7F031C-7271-B005-F366-497C1DBAE490}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cashregisterentrypos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlacableObjectManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\PlacableObjectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlacableObjectManager.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\PlacableObjectManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PlacableObjectManager.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:33:24.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShelfPlacable.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\ShelfPlacable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ShelfPlacable.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\ShelfPlacable.cs",
+              "RelativeToolTip": "Assets\\Script\\ShelfPlacable.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:29:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CashRegisterEntryPos.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\CashRegisterEntryPos.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CashRegisterEntryPos.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\CashRegisterEntryPos.cs",
+              "RelativeToolTip": "Assets\\Script\\CashRegisterEntryPos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:54:37.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductUtility.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\ProductUtility.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ProductUtility.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\ProductUtility.cs",
+              "RelativeToolTip": "Assets\\Script\\ProductUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:43:16.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashRegisterManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\CashRegisterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CashRegisterManager.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\CashRegisterManager.cs",
+              "RelativeToolTip": "Assets\\Script\\CashRegisterManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:26:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:40:54.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\CustomerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CustomerScript.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\CustomerScript.cs",
+              "RelativeToolTip": "Assets\\Script\\CustomerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:38:48.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\Product.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Product.cs",
+              "ToolTip": "D:\\UnityProject\\Shop simulator\\Assets\\Script\\Product.cs",
+              "RelativeToolTip": "Assets\\Script\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T01:34:08.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

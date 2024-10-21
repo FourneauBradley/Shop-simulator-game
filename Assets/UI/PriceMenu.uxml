@@ -1,0 +1,26 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/PriceMenu.uss?fileID=7433441132597879392&amp;guid=d480c165ead9a904785ee07134ece0f7&amp;type=3#PriceMenu" />
+    <ui:VisualElement name="Panel" class="panel" style="flex-grow: 1;">
+        <ui:VisualElement name="Container" class="menu" style="flex-grow: 1;">
+            <ui:Label text="Banane" name="Title" enable-rich-text="true" class="title" />
+            <ui:VisualElement name="PurchaseContainer" class="RowContainer">
+                <ui:Label text="Prix d&apos;achat" name="PurchasePriceLbl" display-tooltip-when-elided="false" class="label" />
+                <ui:Label text="0.99$" name="PurchasePriceValueLbl" class="value" />
+            </ui:VisualElement>
+            <ui:VisualElement name="MarketPriceContainer" class="RowContainer">
+                <ui:Label text="Prix du marché" name="MarketPriceLbl" display-tooltip-when-elided="false" class="label" />
+                <ui:Label text="1.99$" name="MarketPriceValueLbl" class="value" />
+            </ui:VisualElement>
+            <ui:VisualElement name="CurrentPriceContainer" class="RowContainer">
+                <ui:Label text="Prix actuel" name="CurrentPriceLbl" display-tooltip-when-elided="false" class="label" />
+                <ui:FloatField value="2.05" name="CurrentPriceInput" class="CurrentPriceInput" />
+            </ui:VisualElement>
+            <ui:VisualElement name="horizontalBar" class="horizontalBar" style="flex-grow: 1;" />
+            <ui:VisualElement name="ProfitContainer" class="RowContainer">
+                <ui:Label text="Profit" name="ProfitLbl" display-tooltip-when-elided="false" class="label" />
+                <ui:Label text="1.99$" name="ProfitValueLbl" class="value" />
+            </ui:VisualElement>
+            <ui:Button text="OK" name="LeaveBtn" class="Button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

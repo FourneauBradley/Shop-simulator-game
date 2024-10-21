@@ -1,0 +1,5 @@
+public enum MenuEnum
+{
+    PRICE_MENU_MANAGER,
+    WHOLESALER_MENU_MANAGER,
+}
